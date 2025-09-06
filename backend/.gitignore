@@ -1,0 +1,41 @@
+# Build results
+/bin/
+/obj/
+/out/
+/Debug/
+/Release/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# EF Core Migrations
+!Migrations/ # ✅ se você quiser manter migrations (recomendado)
+
+# SQLite Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+appsettings.Development.json
+appsettings.*.json
+secrets.json
+
+# Other
+*.swp
+*.DS_Store

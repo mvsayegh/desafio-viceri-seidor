@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E011FDF-3EE4-49E8-8B58-AB31A639B774}|HeroesApp.Infrastructure\\HeroesApp.Infrastructure.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.infrastructure\\repositories\\heroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E011FDF-3EE4-49E8-8B58-AB31A639B774}|HeroesApp.Infrastructure\\HeroesApp.Infrastructure.csproj|solutionrelative:heroesapp.infrastructure\\repositories\\heroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A6D024-7C9B-4E94-AE7F-9654526CF9A0}|HeroesApp.Application\\HeroesApp.Application.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.application\\inferfaces\\iheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A6D024-7C9B-4E94-AE7F-9654526CF9A0}|HeroesApp.Application\\HeroesApp.Application.csproj|solutionrelative:heroesapp.application\\inferfaces\\iheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A6D024-7C9B-4E94-AE7F-9654526CF9A0}|HeroesApp.Application\\HeroesApp.Application.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.application\\dtos\\herodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A6D024-7C9B-4E94-AE7F-9654526CF9A0}|HeroesApp.Application\\HeroesApp.Application.csproj|solutionrelative:heroesapp.application\\dtos\\herodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B23FABA-4F98-4B51-BAD8-219FF68811DB}|HeroesApp.Domain\\HeroesApp.Domain.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.domain\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B23FABA-4F98-4B51-BAD8-219FF68811DB}|HeroesApp.Domain\\HeroesApp.Domain.csproj|solutionrelative:heroesapp.domain\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C22FD9B-9367-4B51-83EA-F4AF08AF2C97}|HeroesApp.API\\HeroesApp.API.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.api\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C22FD9B-9367-4B51-83EA-F4AF08AF2C97}|HeroesApp.API\\HeroesApp.API.csproj|solutionrelative:heroesapp.api\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A6D024-7C9B-4E94-AE7F-9654526CF9A0}|HeroesApp.Application\\HeroesApp.Application.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.application\\dtos\\superpowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A6D024-7C9B-4E94-AE7F-9654526CF9A0}|HeroesApp.Application\\HeroesApp.Application.csproj|solutionrelative:heroesapp.application\\dtos\\superpowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B23FABA-4F98-4B51-BAD8-219FF68811DB}|HeroesApp.Domain\\HeroesApp.Domain.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.domain\\entities\\superpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B23FABA-4F98-4B51-BAD8-219FF68811DB}|HeroesApp.Domain\\HeroesApp.Domain.csproj|solutionrelative:heroesapp.domain\\entities\\superpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C22FD9B-9367-4B51-83EA-F4AF08AF2C97}|HeroesApp.API\\HeroesApp.API.csproj|c:\\users\\mvmgs\\onedrive\\\u00E1rea de trabalho\\pessoal\\desafio-viceri\\backend\\heroesapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C22FD9B-9367-4B51-83EA-F4AF08AF2C97}|HeroesApp.API\\HeroesApp.API.csproj|solutionrelative:heroesapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Superpower.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Domain\\Entities\\Superpower.cs",
+              "RelativeDocumentMoniker": "HeroesApp.Domain\\Entities\\Superpower.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Domain\\Entities\\Superpower.cs",
+              "RelativeToolTip": "HeroesApp.Domain\\Entities\\Superpower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:20:19.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperpowerDto.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Application\\DTOs\\SuperpowerDto.cs",
+              "RelativeDocumentMoniker": "HeroesApp.Application\\DTOs\\SuperpowerDto.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Application\\DTOs\\SuperpowerDto.cs",
+              "RelativeToolTip": "HeroesApp.Application\\DTOs\\SuperpowerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:19:07.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Application\\Inferfaces\\IHeroService.cs",
+              "RelativeDocumentMoniker": "HeroesApp.Application\\Inferfaces\\IHeroService.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Application\\Inferfaces\\IHeroService.cs",
+              "RelativeToolTip": "HeroesApp.Application\\Inferfaces\\IHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:23:52.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Domain\\Entities\\Hero.cs",
+              "RelativeDocumentMoniker": "HeroesApp.Domain\\Entities\\Hero.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Domain\\Entities\\Hero.cs",
+              "RelativeToolTip": "HeroesApp.Domain\\Entities\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:23:38.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeroController.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.API\\Controllers\\HeroController.cs",
+              "RelativeDocumentMoniker": "HeroesApp.API\\Controllers\\HeroController.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.API\\Controllers\\HeroController.cs",
+              "RelativeToolTip": "HeroesApp.API\\Controllers\\HeroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:05:52.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeroDto.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Application\\DTOs\\HeroDto.cs",
+              "RelativeDocumentMoniker": "HeroesApp.Application\\DTOs\\HeroDto.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Application\\DTOs\\HeroDto.cs",
+              "RelativeToolTip": "HeroesApp.Application\\DTOs\\HeroDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:28:25.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroService.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Infrastructure\\Repositories\\HeroService.cs",
+              "RelativeDocumentMoniker": "HeroesApp.Infrastructure\\Repositories\\HeroService.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.Infrastructure\\Repositories\\HeroService.cs",
+              "RelativeToolTip": "HeroesApp.Infrastructure\\Repositories\\HeroService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:10:56.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "HeroesApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mvmgs\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\desafio-viceri\\backend\\HeroesApp.API\\Program.cs",
+              "RelativeToolTip": "HeroesApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T02:43:08.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
