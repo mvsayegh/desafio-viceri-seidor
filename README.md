@@ -1,13 +1,13 @@
 # 🦸‍♂️ HeroesApp
 
-Um sistema simples de **CRUD de Heróis** com gerenciamento de **Superpoderes**, feito para o desafio técnico de **.NET 8 (C#)** no backend e **Angular 18 + PrimeNG** no frontend para a Viceri Seidor.
+Um sistema simples de **CRUD de Heróis** com gerenciamento de **Superpoderes**, feito para o desafio técnico de **.NET 9 (C#)** no backend e **Angular 18 + PrimeNG** no frontend para a Viceri Seidor.
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
 ### 🔹 Backend
-- **.NET 8 / ASP.NET Core Web API**
+- **.NET 9 / ASP.NET Core Web API**
 - **Entity Framework Core + SQLite**
 - **Arquitetura em camadas (Domain, Application, Infrastructure)**
 - **DTOs, Services, Controllers**
@@ -84,7 +84,7 @@ git clone https://github.com/mvsayegh/desafio-viceri-seidor.git
 ```
 heroes-app/
 │
-├── backend/                # Projeto .NET 8 Web API
+├── backend/                # Projeto .NET 9
 │   ├── Domain/             # Entidades
 │   ├── Application/        # DTOs e Interfaces
 │   ├── Infrastructure/     # Data (DbContext, Repositories)
